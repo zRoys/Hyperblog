@@ -10,5 +10,6 @@ La ves que me estrese porque no podia hacer un pull y push desde la terminal con
 
 * Creado por Roy
 * incluye ejemplos en windows, linux 
+* usando visual studio 
 
 Como recordatorio tendre el link de esta pagina para hacer readmes https://pandao.github.io/editor.md/en.html
