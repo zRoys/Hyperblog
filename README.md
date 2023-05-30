@@ -8,4 +8,6 @@ La ves que me estrese porque no podia hacer un pull y push desde la terminal con
 
 >funciono que alegria estuve toda la mañana haciendo esto pero al fin hacer un commit aqui en github easy pero enviar un push de vs a github es guardar tus cambios hacer el commit git commit -am "mensaje" luego hacer pull remote branch y push despues push remote branch :)
 
+* Creado por Roy
+
 Como recordatorio tendre el link de esta pagina para hacer readmes https://pandao.github.io/editor.md/en.html
